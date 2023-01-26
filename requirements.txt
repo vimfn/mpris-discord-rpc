@@ -1,0 +1,5 @@
+colorama
+dbus-python
+pycairo
+pypresence
+PyGObject
