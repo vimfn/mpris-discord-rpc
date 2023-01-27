@@ -26,7 +26,7 @@ def pp():
     {Fore.WHITE}----------------------------------------
     """)
 pp()
-RPC = Presence('987287937467170846') # I am to lazy to upload my own assets
+RPC = Presence('987287937467170846') # I am too lazy to upload my own assets
 
 def get_time():
     return time.time()*1000             # Get current timestamp (s)
